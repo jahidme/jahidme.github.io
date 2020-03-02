@@ -83,7 +83,7 @@ disqus_shortname: mltt
 wakatime_username: sujaykundu777
 
 # mailchimp embedded form url (newsletter):
-mailchimp_form_url:
+mailchimp_form_url: http://mailchi.mp/346b45661d04/a-new-blog-frommachine-learning-talks-tips
 
 # formspree (contact form)
 formspree_email: johndoe@gmail.com
