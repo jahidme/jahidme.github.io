@@ -1,9 +1,9 @@
 ---
 layout: post
-title: Introduction to Machine Learning
+title: ব্লগ  
 author: Md. Jahid Hasan
 date: '20290-03-02 08:35:23 +0600'
-category: Machine Learning
+category: ব্লগ  
 summary: 𝐓𝐡𝐞 𝐌𝐚𝐜𝐡𝐢𝐧𝐞 𝐋𝐞𝐚𝐫𝐧𝐢𝐧𝐠 𝐋𝐚𝐧𝐝𝐬𝐜𝐚𝐩𝐞
 thumbnail: ml-basic-cover.png
 ---
