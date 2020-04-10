@@ -22,6 +22,8 @@ urls:
       url: /Styleguide
     - text: Get Started
       url: /get-started
+    - text: Research
+      url: /research
 
 # Edit these details
 
