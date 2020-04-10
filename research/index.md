@@ -2,6 +2,7 @@
 title: Research
 menus: header
 layout: page
+permalink: /research/
 ---
 
 
