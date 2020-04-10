@@ -16,8 +16,8 @@ urls:
       url : /shop
     - text: Contact Me
       url : /contact
-    # - text: Styleguide
-    #   url: /styleguide
+    - text: ব্লগ
+      url: /ব্লগ
     - text: Get Started
       url: /get-started
 
@@ -25,7 +25,7 @@ urls:
 
 author_logo: profile.png
 author: Md. Jahid Hasan
-author_bio: Hello, My Name is Jahid Hasan. I love to Code and play with robotics....
+author_bio: Hello, My Name is Jahid Hasan. I love to Code and play with robotics and AI....
 author_email: "jahidnoyon36@gmail.com"
 author_location: Bangladesh
 author_website_url: "https://jahidme.github.io/about#/"
@@ -65,28 +65,28 @@ author_project_details:
                 visibility: true
 
 # social links
-twitter_username: johndoe
+twitter_username: Jahidtojahid
 github_username:  HelloJahid
 facebook_username: jahid22angrybird
-linkedin_username: johndoe
-behance_username: johndoe
-instagram_username: johndoe
-medium_username: johndoe
-telegram_username: johndoe
-dribbble_username: johndoe
-flickr_username: johndoe
+linkedin_username: md-jahid-hasan-b2a0a9166
+behance_username: abc
+instagram_username: abc
+medium_username: abc
+telegram_username: abc
+dribbble_username: abc
+flickr_username: abc
 
 #for comments using disqus
 disqus_shortname: mltt
 
 # wakatime username (coding activity)
-wakatime_username: sujaykundu777
+wakatime_username: abc
 
 # mailchimp embedded form url (newsletter):
 mailchimp_form_url: http://mailchi.mp/346b45661d04/a-new-blog-frommachine-learning-talks-tips
 
 # formspree (contact form)
-formspree_email: johndoe@gmail.com
+formspree_email: jahidnoyon36@gmail.com
 
 # syntax highlighter
 markdown: kramdown
