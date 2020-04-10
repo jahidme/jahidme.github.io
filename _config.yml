@@ -17,7 +17,7 @@ urls:
     - text: Contact Me
       url : /contact
     - text: ব্লগ
-      url: /ব্লগ
+      url: /banglablog
     - text: Styleguide
       url: /Styleguide
     - text: Get Started
