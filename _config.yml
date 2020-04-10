@@ -18,6 +18,8 @@ urls:
       url : /contact
     - text: ব্লগ
       url: /ব্লগ
+    - text: Styleguide
+      url: /Styleguide
     - text: Get Started
       url: /get-started
 
