@@ -1,5 +1,5 @@
 ---
-layout: banglablog
+layout: banglapost
 title: ব্লগ  
 author: Md. Jahid Hasan
 date: '20290-03-02 08:35:23 +0600'
