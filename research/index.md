@@ -6,4 +6,4 @@ permalink: /research/
 ---
 
 
-[Combining Deep Convolutional Neural Network with Support Vector Machine to Classify Microscopic Bacteria Images](https://jahidme.github.io/research/ieee/paper2018-1/#/)
+[Combining Deep Convolutional Neural Network with Support Vector Machine to Classify Microscopic Bacteria Images](https://jahidme.github.io/research/paper2018-1/)
