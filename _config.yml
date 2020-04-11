@@ -16,7 +16,7 @@ urls:
       url : /shop
     - text: Contact Me
       url : /contact
-    - text: ব্লগ
+    - text: banglablog
       url: /banglablog
     - text: Styleguide
       url: /Styleguide
