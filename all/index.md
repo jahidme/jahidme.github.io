@@ -14,13 +14,6 @@ _______________________________________________________________
 <br>
 <br>
 
-___________
-### Basic
-TODO
-
-
-<br>
-<br>
 
 __________
 ### Generative Adversarial Network(GAN)
@@ -30,7 +23,7 @@ __________
 
 __________
 ### Deep Learning
-[click here to know more]({% link research/journal.md %})
+
 
 ______________________________
 <br>
@@ -38,6 +31,6 @@ ______________________________
 
 __________
 ### Project
-[click here to know more]({% link research/journal.md %})
+
 
 ______________________________
