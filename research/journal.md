@@ -10,9 +10,8 @@ summary: All About My Research
 _________________________________________________________________________
 
 
-### journal
-* [Combining Deep Convolutional Neural Network with Support Vector Machine to Classify Microscopic Bacteria Images](https://jahidme.github.io/ieee/paper2019-1/)
-
+### 2018
+* [Energy Efficient Solar-Powered Street Lights using Sun-Tracking Solar Panel with Traffic Density Monitoring and Wireless Control System](({% link research/journal/IJRASET.md %})
 
 
 

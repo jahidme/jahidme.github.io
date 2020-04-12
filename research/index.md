@@ -16,11 +16,12 @@ _______________________________________________________________
 
 ___________
 ### Conference paper
-[click here to know more]({% link research/info.md %})
+[click here to know more]({% link research/conference.md %})
 
 
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+<br>
+<br>
 
 __________
 ### Journal paper
-[click here to know more]({% link research/ieee/info.md %})
+[click here to know more]({% link research/ieee/journal.md %})
