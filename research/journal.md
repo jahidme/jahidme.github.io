@@ -11,7 +11,7 @@ _________________________________________________________________________
 
 
 ### 2018
-* [Energy Efficient Solar-Powered Street Lights using Sun-Tracking Solar Panel with Traffic Density Monitoring and Wireless Control System]
+* [Energy Efficient Solar-Powered Street Lights using Sun-Tracking Solar Panel with Traffic Density Monitoring and Wireless Control System](({% link research/journal/ijraset.md %})
 
 
 

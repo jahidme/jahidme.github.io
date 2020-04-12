@@ -15,4 +15,3 @@ Due to increasing demand of energy, utilization of renewable energy sources are 
 ## [Full paper link](http://www.ijraset.com/fileserve.php?FID=18491)
 
 #### Published in:  [International Journal for Research in Applied Science & Engineering Technology (IJRASET))](https://www.ijraset.com/)
-(({% link research/journal/ijraset.md %})
