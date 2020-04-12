@@ -1,5 +1,5 @@
 ---
-title: All Post 
+title: All Post
 menus: header
 layout: page
 ---
@@ -16,15 +16,16 @@ _______________________________________________________________
 
 ___________
 ### Basic
-gfjhjhkjhkjhklh
+TODO
 
 
 <br>
 <br>
 
 __________
-### Machine Learning
-[click here to know more]({% link research/journal.md %})
+### Generative Adversarial Network(GAN)
+* [Introduction to Generative Adversarial Network(GAN)({% link _posts/2020-04-12-gan-intro.md %})
+
 
 <br>
 <br>
