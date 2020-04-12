@@ -1,5 +1,5 @@
 ---
-title: research
+title: bangla blog
 menus: header
 layout: page
 ---
@@ -8,7 +8,7 @@ layout: page
 
 _______________________________________________________________
 
-<h1> <p> All Post Here! </p>  </h1>
+<h1> <p> Bangla Blog! </p>  </h1>
 <br>
 <br>
 <br>
@@ -17,28 +17,3 @@ _______________________________________________________________
 ___________
 ### Basic
 gfjhjhkjhkjhklh
-
-
-<br>
-<br>
-
-__________
-### Machine Learning
-[click here to know more]({% link research/journal.md %})
-
-<br>
-<br>
-
-__________
-### Deep Learning
-[click here to know more]({% link research/journal.md %})
-
-______________________________
-<br>
-<br>
-
-__________
-### Project
-[click here to know more]({% link research/journal.md %})
-
-______________________________

@@ -1,5 +1,5 @@
 ---
-title: research
+title: All Post 
 menus: header
 layout: page
 ---
