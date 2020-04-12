@@ -14,7 +14,7 @@ thumbnail: ml-basic-cover.png
 > ✍ বিষয় :  মেশিন লার্নিং শেখার ৪ টি ধাপ |
 
 ✍ মেশিন লার্নিং কি? আমরা আমাদের পূর্বের দেয়া পোস্টে বিস্তর আলোচনা করেছি। জানতে ক্লিক করুন
-<div markdown="0"><a href="https://jahidme.github.io/banglablog/ML%20basic/2019-07-07-ml_basic-ml_landscape/#/" class="btn btn-info">মেশিন লার্নিং কি?</a></div>
+<div markdown="0"><a href="https://jahidme.github.io/banglablog/ML%20basic/2019-07-07-ml_basic-ml_landscape/" class="btn btn-info">মেশিন লার্নিং কি?</a></div>
 
 আপনাদের অনেকের কমন একটি প্রশ্ন হল: কিভাবে মেশিং লার্নিং শুরু করবো?
 
