@@ -1,18 +1,12 @@
 ---
 layout: post
 title:  মেশিন লার্নিং পটভূমি
-description: "𝐓𝐡𝐞 𝐌𝐚𝐜𝐡𝐢𝐧𝐞 𝐋𝐞𝐚𝐫𝐧𝐢𝐧𝐠 𝐋𝐚𝐧𝐝𝐬𝐜𝐚𝐩𝐞 "
-modified: 2019-07-21
-tags: [Machine Learning, ML basic]
-comments: true
-image:
-  path: /images/ml-basic-cover.png
-  feature: ml-basic-cover.png
-  credit: jahid
-  creditlink: https://www.facebook.com/jahid2angrybird
-
-
+summary: "𝐓𝐡𝐞 𝐌𝐚𝐜𝐡𝐢𝐧𝐞 𝐋𝐞𝐚𝐫𝐧𝐢𝐧𝐠 𝐋𝐚𝐧𝐝𝐬𝐜𝐚𝐩𝐞 "
+author: Md. Jahid Hasan
+date: '2020-04-12 01:05:23 +0600'
+category: banglablog
 ---
+
 
 ### মেশিন লার্নিং পটভূমি (𝐓𝐡𝐞 𝐌𝐚𝐜𝐡𝐢𝐧𝐞 𝐋𝐞𝐚𝐫𝐧𝐢𝐧𝐠 𝐋𝐚𝐧𝐝𝐬𝐜𝐚𝐩𝐞 ):
 👉পর্ব : 2

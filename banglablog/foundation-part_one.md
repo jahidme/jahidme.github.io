@@ -1,18 +1,14 @@
 ---
 layout: post
-title:  কিভাবে মেশিন লার্নিং শুরু করবেন    পর্ব ১
-description: " 👉Topic: How To Start Machine Learning: Part Foundation"
-modified: 2019-07-21
-tags: [Machine Learning, Foundation]
-comments: true
-image:
-  path: /images/ml-basic-cover.png
-  feature: ml-basic-cover.png
-  credit: jahid
-  creditlink: https://www.facebook.com/jahid2angrybird
-
-
+title: Introduction to Machine Learning
+author: Md. Jahid Hasan
+date: '2020-04-12 01:05:23 +0600'
+category: guides
+summary: 𝐓𝐡𝐞 𝐌𝐚𝐜𝐡𝐢𝐧𝐞 𝐋𝐞𝐚𝐫𝐧𝐢𝐧𝐠 𝐋𝐚𝐧𝐝𝐬𝐜𝐚𝐩𝐞
+thumbnail: ml-basic-cover.png
 ---
+
+
 ## কিভাবে মেশিন লার্নিং শুরু করবেন :
 👉পর্ব : ১
 > ✍ বিষয় :  মেশিন লার্নিং শেখার ৪ টি ধাপ |

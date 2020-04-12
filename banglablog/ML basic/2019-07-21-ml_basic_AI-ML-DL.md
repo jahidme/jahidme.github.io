@@ -1,16 +1,10 @@
 ---
 layout: post
 title:  আর্টিফিসিয়াল ইন্টিলিজন্স, মেশিন লার্নিং, ডিপ লার্নিং এর সম্পর্ক
-description: "Different Field Of Machine Learning"
-modified: 2019-07-21
-tags: [Machine Learning, ML basic]
-comments: true
-image:
-  path: /images/ml-basic-cover.png
-  feature: ml-basic-cover.png
-  credit: jahid
-  creditlink: https://www.facebook.com/jahid2angrybird
-
+summary: "Different Field Of Machine Learning"
+author: Md. Jahid Hasan
+date: '2020-04-12 01:05:23 +0600'
+category: banglablog
 
 ---
 
