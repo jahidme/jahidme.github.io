@@ -36,11 +36,12 @@ urls:
       url : /contact
     - text:
       url : /contact
-    - text: বাংলা ব্লগ 
+    - text: বাংলা ব্লগ
       url: /banglablog
     - text: About Me
       url: /about
     - text: Contact Me
+      url : /contact
 
 
 

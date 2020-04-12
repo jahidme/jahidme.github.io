@@ -1,7 +1,6 @@
 ---
 layout: gallery
-title: Mountains
+title: Country Tour(HSTU)
 ---
 
-<!-- {% include gallery-layout.html gallery=site.data.galleries.mountains %} -->
-{% include gallery-layout.html gallery=site.data.hstu_tours.mountains %}
+{% include gallery-layout.html gallery=site.data.galleries.mountains %}
