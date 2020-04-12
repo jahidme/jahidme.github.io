@@ -7,7 +7,7 @@ baseurl: "" # the subpath of your site, e.g. /blog
 
 urls:
     - text: Posts
-      url: /all 
+      url: /all
     - text: Blog
       url: /blog
     - text: Research
@@ -36,7 +36,7 @@ urls:
       url : /contact
     - text:
       url : /contact
-    - text: banglablog
+    - text: বাংলা ব্লগ 
       url: /banglablog
     - text: About Me
       url: /about
