@@ -24,4 +24,4 @@ ___________
 
 __________
 ### Journal paper
-[click here to know more]({% link research/ieee/journal.md %})
+[click here to know more]({% link research/journal.md %})

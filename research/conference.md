@@ -11,6 +11,6 @@ _________________________________________________________________________
 
 
 ### 2019
-* [Combining Deep Convolutional Neural Network with Support Vector Machine to Classify Microscopic Bacteria Images(IEEE)](({% link research/ecce2019.md %})
+* [Combining Deep Convolutional Neural Network with Support Vector Machine to Classify Microscopic Bacteria Images(IEEE)]
 
 _________________________________________________________________________
