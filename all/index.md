@@ -24,10 +24,8 @@ TODO
 
 __________
 ### Generative Adversarial Network(GAN)
-* [Introduction to Generative Adversarial Network(GAN)({% link _posts/2020-04-12-gan-intro.md %})
+* [Introduction to Generative Adversarial Network(GAN)(https://jahidme.github.io/deep%20learning,%20cnn,%20gan/2020/04/11/gan-intro/)
 
-
-<br>
 <br>
 
 __________
