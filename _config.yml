@@ -6,24 +6,34 @@ url: "" # the base hostname & protocol for your site, e.g. https://example.githu
 baseurl: "" # the subpath of your site, e.g. /blog
 
 urls:
-    - text: About Me
-      url: /about
+    - text: Get Started
+      url: /get-started
     - text: Blog
       url: /blog
+    - text: Research
+      url: /research
     - text: Gallery
       url: /gallery
     - text: Shop
       url : /shop
+    - text: About Me
+      url: /about
     - text: Contact Me
+      url : /contact
+    - text:
+      url : /contact
+    - text:
+      url : /contact
+    - text:
+      url : /contact
+    - text:
+      url : /contact
+    - text:
       url : /contact
     - text: banglablog
       url: /banglablog
-    - text: Styleguide
-      url: /Styleguide
-    - text: Get Started
-      url: /get-started
-    - text: Research
-      url: /research
+
+
 
 # Edit these details
 
