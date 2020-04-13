@@ -75,7 +75,10 @@ thumbnail: intro_lr01.png
 <br>
 
 <p> Least-squares পদ্ধতির উদ্দেশ্য হলো α এবং β এর এমন কিছু মান বাহির করা, যা  হ্রাস করে Y এবং Yₑ এর মধ্যে বর্গক্ষেত্রের বিয়োগফলের  যোগফল | আমরা এখানে derivation মধ্য দিয়ে যাব না, তবে ক্যালকুলাস ব্যবহার করে আমরা দেখাতে পারি যে অজানা প্যারামিটারগুলির(α এবং β) মান নিম্নরূপ:</p>
-<img src="2.gif" alt="Smiley face">
+
+<figure>
+      <img src="/banglablog/LR/2.gif">
+</figure>
 
 <h4><u>যেখানে</u></h4>
 <ul>
@@ -84,6 +87,11 @@ thumbnail: intro_lr01.png
 
 </ul>
 
+<h3>লিনিয়ার রিগ্রেশনের  গাণিতিক ব্যাখ্যা বিস্তারিত জানতে এই ভিডিও টি দেখুন </h3>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZP_I87mAh1A" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+<hr />
 
 
 ## Linear Regression From Scratch
