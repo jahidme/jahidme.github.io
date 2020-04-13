@@ -58,6 +58,17 @@ A computer program is said to learn from experience E with respect to some task 
     <img src="/assets/img/bangla_blog/ml-basic-cover-spam.png" height="360" width="720" alt="spam">
 </figure>
 
+
+<figure>
+  <img srcset="/assets/img/bangla_blog/ml-basic-cover-spam.png 480w,
+               /assets/img/bangla_blog/ml-basic-cover-spam.png 800w"
+       sizes="(max-width: 600px) 480px,
+              720px"
+       src="/assets/img/bangla_blog/ml-basic-cover-spam.png"
+       alt="Elva dressed as a fairy">
+</figure>
+
+
 এক্ষেত্রে মেশিন লার্নিং Task T হচ্ছে একটি নতুন ই-মেইল কে নির্বাচন করা যে এটি স্পাম নাকি রগেুলার ই-মেইল। Experience E হচ্ছে পূর্ববর্তী উদাহরন অর্থাৎ Training Data এবং performance measure P বের করতে হবে Task T  থেকে। ইহাকে বলা যায় Ratio of Correctly Classify E-Mail। এই নিদির্ষ্ট performance P কে মেশির লার্নিং এর ভাষায় বলা হয় Accuracy Test এবং Classification Task।
 
 
