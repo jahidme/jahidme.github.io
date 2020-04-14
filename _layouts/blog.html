@@ -37,7 +37,7 @@ layout: default
                                     transition: all 0.5s;
                                     cursor: pointer;
                                     margin: 5px; "
-                                    onclick="document.location = '{{ post.url | prepend: site.baseurl }}" data-disqus-identifier="{{ post.url }}'  "> Read </button>
+                                    onclick="document.location = {{ post.url | prepend: site.baseurl }}" data-disqus-identifier="{{ post.url }}  "> Read </button>
 
 
                               <span class="disqus-comment-count" data-disqus-identifier="{{ post.url }}"></span>
