@@ -117,7 +117,7 @@ guaranteed and the two players can continue playing for a long time.
 </p>
 
 
-<h2>👉 Learn more about GAN network and algorithm here. </h2?
+<h2>👉 Learn more about GAN network and algorithm here. </h2>
 <p> </p>
 <br>
 <a style= "border-radius: 4px;
@@ -176,6 +176,9 @@ guaranteed and the two players can continue playing for a long time.
 
 
 
+<hr>
+<br>
+<br>
 
 <h3>Reference:</h3>
 <ul>
