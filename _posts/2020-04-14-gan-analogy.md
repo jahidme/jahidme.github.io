@@ -2,7 +2,7 @@
 layout: post
 title: Analogy of Generative Adversarial Network(GAN)
 author: Md. Jahid Hasan
-date: '2020-04-12 03:15:23 +0600'
+date: '2020-04-14 094:15:23 +0600'
 category: GAN
 summary: Generative Adversarial Network(GAN)
 thumbnail: gan_analogy01.png
@@ -116,6 +116,24 @@ the two players eventually reach an equilibrium, but this is not always
 guaranteed and the two players can continue playing for a long time.
 </p>
 
+
+<h2>👉 Learn more about GAN network and algorithm here. </h2>
+<a style= "border-radius: 4px;
+						background-color: #f4511e;
+						border: none;
+						color: #FFFFFF;
+						text-align: center;
+						font-size: 30px;
+						padding: 15px;
+						width: 100px;
+						transition: all 0.5s;
+						cursor: pointer;
+						margin: 5px;
+						text-decoration: none"
+
+					href="https://jahidme.github.io/deep%20learning,%20cnn,%20gan/2020/04/11/gan-intro/#/" >Read</a>
+
+<br>
 
 <h2>👉 Application of GAN</h2>
 
