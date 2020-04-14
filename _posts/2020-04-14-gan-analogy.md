@@ -2,7 +2,7 @@
 layout: post
 title: Analogy of Generative Adversarial Network(GAN)
 author: Md. Jahid Hasan
-date: '2020-04-14 094:15:23 +0600'
+date: '2020-04-14 09:15:23 +0600'
 category: GAN
 summary: Generative Adversarial Network(GAN)
 thumbnail: gan_analogy01.png
@@ -173,3 +173,14 @@ guaranteed and the two players can continue playing for a long time.
     <li>Unbalanced between generator and discriminator causing overfitting</li>
     <li>Highly sensitive to select hyperparamter</li>
     <li>Text-to-Image Translation</li>
+
+
+
+
+<h3>Reference:</h3>
+<ul>
+		    <li>https://www.datacamp.com/community/tutorials/generative-adversarial-networks</li>
+				<li>https://pathmind.com/wiki/generative-adversarial-network-gan</li>
+
+
+</ul>
