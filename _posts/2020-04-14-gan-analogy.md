@@ -118,6 +118,10 @@ guaranteed and the two players can continue playing for a long time.
 
 
 <h2>👉 Learn more about GAN network and algorithm here. </h2>
+<p>  </p>
+<br>
+<hr>
+___________________________________________________________
 <a style= "border-radius: 4px;
 						background-color: #f4511e;
 						border: none;
@@ -133,7 +137,10 @@ guaranteed and the two players can continue playing for a long time.
 
 					href="https://jahidme.github.io/deep%20learning,%20cnn,%20gan/2020/04/11/gan-intro/#/" >Read</a>
 
+<p>  </p>
 <br>
+<hr>
+___________________________________________________________
 
 <h2>👉 Application of GAN</h2>
 
