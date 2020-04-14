@@ -35,7 +35,7 @@ In a convolutional network (ConvNet), there are basically three types of layers:
 -Number of filter (depth of next layer)
 -Size of the filter
 
->>>Stride : The amount of filter shift in the image. The bigger the stride, the smaller the feature map output.
+>Stride : The amount of filter shift in the image. The bigger the stride, the smaller the feature map output.
 example :1
  7 x 7 Input Volume and value of stride is 1
 then Output volume is 5 x 5
@@ -43,7 +43,7 @@ example :2
   7 x 7 Input Volume and value of stride is 2
 then Output volume is 3 x 3
 
->>>Padding :We have seen that convolving an input of 6 X 6 dimension with a 3 X 3 filter results in 4 X 4 output. We can generalize it and say that if the input is n X n and the filter size is f X f, then the output size will be (n-f+1) X (n-f+1):
+>>Padding :We have seen that convolving an input of 6 X 6 dimension with a 3 X 3 filter results in 4 X 4 output. We can generalize it and say that if the input is n X n and the filter size is f X f, then the output size will be (n-f+1) X (n-f+1):
 -Input: n X n
 -Filter size: f X f
 -Output: (n-f+1) X (n-f+1)
