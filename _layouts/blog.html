@@ -24,20 +24,22 @@ layout: default
                               <p class="card-text">{{ post.summary }} </p>
 
                               <a href="{{ post.url | prepend: site.baseurl }}" data-disqus-identifier="{{ post.url }}" class="btn btn-primary btn-lg">Read</a>
-                              <button
 
-                                  	style = " border-radius: 4px;
-                                    background-color: #f4511e;
-                                    border: none;
-                                    color: #FFFFFF;
-                                    text-align: center;
-                                    font-size: 28px;
-                                    padding: 20px;
-                                    width: 130px;
-                                    transition: all 0.5s;
-                                    cursor: pointer;
-                                    margin: 5px; "
-                                    onclick="document.location = {{ post.url | prepend: site.baseurl }}" data-disqus-identifier="{{ post.url }}  "> Read </button>
+                              <a style= "border-radius: 4px;
+                                          background-color: #f4511e;
+                                          border: none;
+                                          color: #FFFFFF;
+                                          text-align: center;
+                                          font-size: 30px;
+                                          padding: 15px;
+                                          width: 100px;
+                                          transition: all 0.5s;
+                                          cursor: pointer;
+                                          margin: 5px;
+                                          text-decoration: none"
+
+                                        href="{{ post.url | prepend: site.baseurl }}" data-disqus-identifier="{{ post.url }}" >Read</a>
+
 
 
                               <span class="disqus-comment-count" data-disqus-identifier="{{ post.url }}"></span>
