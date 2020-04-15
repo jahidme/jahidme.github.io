@@ -10,56 +10,38 @@ summary: 𝐓𝐡𝐞 𝐌𝐚𝐜𝐡𝐢𝐧𝐞 𝐋𝐞𝐚𝐫𝐧𝐢𝐧�
 
 
 
+principal component analysis(PCA) বহুল ব্যবহিত Dimensionality Reduction Algorithm.
+PCA মুলত একটি ডাটাসেটে ডাটাগুলোর  Orthogonal Projection ( লম্ব অভিক্ষেপ)  খুজে বের করে। Orthogonal projection এর মাধ্যমে PCA ডাটাসেটের সরবচ্ছ Variance খুজে বের করে, জার সাহায্য ডাটাসেট এবং Feature মধ্যে linear-corelation বের করা জাই!।
 
-Topic : convolutional neural network
+আরথাত,  আমাদের কাছে জদি একটি নিদিশত দাতাসএতের  linearlg corelated কিছু ফিচার থাকে  তাইলে PCA একটা suitability  orthogonal direction খুজে বের করতে পারবে জা আমদেএ দাতাসের এর সমসস্ত দাতা কে এক্তা direction এ তুলে ধরতে পারবে।
 
-A convolutional neural network (CNN) is a type of artificial neural network used in image recognition and processing that is specifically designed to process pixel data.
+PCA  কতগুলি principal component  নিয়ে গঠিত,  চলুন Principal component কি দেখে নেয়
 
-CNNs are powerful image processing, artificial intelligence (AI) tools that use deep learning to perform both generative and descriptive tasks, often using machine vison that includes image and video recognition, along with recommender systems and natural language processing (NLP).  
+Principal component :
+Principal component হলো Initial Variable ( Raw dataset)  থেকে স্রস্ত Linear combination or mixure এর মাধ্যমে একটি New Variable( New Dataset).  
 
-Application of CNN :
--Image recognition and OCR
--Object detection for self-driving cars
--Face recognition on social media
--Image analysis in healthcare  
+New Variable টি কতগুল Principal component  নিয়ে গতিত। Principal component এক বা একাধিক হতে পারে।  অরথাত একটি ডাতাসেতের ডিমেনশন জদি ১০০ হঅই তিবে তার principal component hobe 100তি। Principal component গুল দাতার ইনফরমেশন এর উপরে ভিত্তি করে নিম্নক্ত বিনাস আকারে সাজানো থাকে
+.............
 
-In a convolutional network (ConvNet), there are basically three types of layers:
-1.Convolution layer
-2.Pooling layer
-3.Fully connected layer
+New variable টি totally uncorrelated হয়ে থাকে এবং Initail variable এর অধিকাংশ ইনফরমেশন compressed হয়ে 1st pricipal component create kore thake.
 
+PCA try করে অধিকাংশ নিরভর ইনফরমেশন
+1st principal component এ রাখার তারপর অবশিষ্ট অধিকাংশ ইনফরমেশন  2nd principal component এ রাখার এবং এইভাবে ইনফরমেশন এর উপরে ভিত্তি করে principal component এর বিনাস create হয়ে থাকে। নিম্নে ছিত্রে দেখানো হলো।
+picture here......
 
-1.Convolution part : Parameters of each convolved  layer ,,,,,,,,
--Stride
--Padding
--Number of filter (depth of next layer)
--Size of the filter
+উপরিউক্ত বিন্নাস(higher information to lower information)  আকারে principal components গুলা সাজিয়ে খুব সহজে আমরা কম ইনফরমেশন নষ্ট করে একটি Lower dimensional Dataset( new Dataset) create hoi.
 
->Stride : The amount of filter shift in the image. The bigger the stride, the smaller the feature map output.
-example :1
- 7 x 7 Input Volume and value of stride is 1
-then Output volume is 5 x 5
-example :2
-  7 x 7 Input Volume and value of stride is 2
-then Output volume is 3 x 3
+সুতরাং, এইভাবে lower information principal component বাদ দিয়ে অবশিস্ট principal component নিয়ে initail varaiable(Raw Dataset)  থেকে new Variable ( new Dataset)
+create hoye thake.
 
->>Padding :We have seen that convolving an input of 6 X 6 dimension with a 3 X 3 filter results in 4 X 4 output. We can generalize it and say that if the input is n X n and the filter size is f X f, then the output size will be (n-f+1) X (n-f+1):
--Input: n X n
--Filter size: f X f
--Output: (n-f+1) X (n-f+1)
-with Padding
--Input: n X n
--Padding: p
--Filter size: f X f
--Output: (n+2p-f+1) X (n+2p-f+1)
+Example :
+আমরা জানি একটা দাতাসেত এর dimension jodi 100D hoye tobe tar principal component o hobe 100ti.  PCA jokhon dimension reduction kore tokhon low variance feature ke bad diye higher dimension theke lower dimension dataset create kore thake.. Orthat optimal principal component khuje ber korar jonno PCA sob somoi low information feature or low variance data ke noise hisabe bibecona kore. Ei noise feature gula PCA bad diye ekta notun dataset create kore thake jar dimension hoii Main dataset er dimension theke onkk kom ( deoend on infomation gather by each princiapl component).
 
->>>Number of filter :
-Example: 6x6x3 image with four 3x3 filter.
-After convolving, will get 4x4xn, n is depends on the number of filter you use.In this case, n will be 4.
+Dhoren main datasert er name A.  A datser er dimension hosce 100D ebong er principal component o 100ti. 100 ti principal component er mjhee 1st 20 principal component  e 95% data information hold kore.
 
-2.The Pooling Layer :
-Pooling reduces the dimensionality of each feature map and retains the most important information of an image. Spatial Pooling can be of different types: Max, Average, Sum etc.
-Max pooling being the most popular. This basically takes a filter (example: size 2x2) and a stride of the same length(which is 2). It then applies it to the input volume and outputs the maximum number in every sub-region that the filter convolves around.
+PCA tokhon 21-100 porjonto dimension er data ke noise hisabe bibchone kore ogula reomve kore dibe. Baki 20 principle component niye ekta new Dataset create kore B.
 
-3.Fully connected layer :
- Fully connected layers are an essential component of Convolutional Neural Networks (CNNs), which have been proven very successful in recognizing and classifying images for computer vision. The CNN process begins with convolution and pooling, breaking down the image into features, and analyzing them independently. The result of this process feeds into a fully connected neural network structure that drives the final classification decision
+sutrang PCA apply kore, B dataset ti A dataset  95% information hold kore,  higher dimensional dataset (A: 100 dimension)  theke lower dimensional dataset( B : 20 dimension)  create korbe.
+
+Note ::
+Dekha gese noise feature or low variance  data gula suoervied
