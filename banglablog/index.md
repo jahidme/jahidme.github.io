@@ -27,6 +27,10 @@ ___________
 * [লিনিয়ার রিগ্রেশনের  পরিচিতি]({% link banglablog/LR/intro_lr.md %})
 
 
+___________
+<h3> <u> Principal Component Analysis </u>  </h3>
+* [Principal Component Analysis - an overview]({% link banglablog/PCA/intro_pca.md %})
+
 
 ___________
 <h3> <u> Random </u>  </h3>
