@@ -2,9 +2,10 @@
 layout: post
 title: Principal Component Analysis - an overview | ML-T&T
 author: Md. Jahid Hasan
-date: '2020-04-12 01:05:23 +0600'
+date: '2020-04-15 08:05:23 +0600'
 category: guides
 summary: Intuition Behind Principal Components Analysis(PCA)
+thumbnail: pca_intro01.png
 ---
 
 👉Part : 01
