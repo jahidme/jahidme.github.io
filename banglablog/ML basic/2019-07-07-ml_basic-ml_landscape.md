@@ -86,17 +86,24 @@ Algorithms are the smart and powerful soldier of a complex machine learning mode
 * etc
 
 The intelligent systems built on machine learning algorithms have the capability to learn from past experience or historical data. Machine learning applications provide results on the basis of past experience. We will discuss Machine Learning Domains ,how machine learning is helping in creating better technology to power today’s ideas.
-### Top Machine Learning Domains
+### Top Machine Learning Applications Domains
 * Image Recognition
 + Speech Recognition
 - Medical diagnosis
 * Statistical Arbitrage
 + Learning associations
-- Classification
-* Prediction
+- Speech Recognition
+* Online Fraud Detection
 * Extraction
 + Regression Analysis
 - Financial Services
+- Sentiment Analysis
+* Video Surveillance
+* Online Customer Supports
++ Services of Social Media
+-  Medical Services
++ Robot Control
++ Virtual Personal Assistant
 
 For more information check out my youtube video..
 <iframe width="560" height="315" src="https://www.youtube.com/embed/FQKwZAJWa_M" frameborder="0"></iframe>
