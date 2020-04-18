@@ -18,7 +18,13 @@ thumbnail: ml_classification.png
   <li>কিভাবে মেশিন লার্নিং শুরু করবেন? (২য় পর্বে) (লিঙ্ক প্রথম কমেন্টে)</li>
   <li>মেশিন লার্নিং এর সাথে AI এবং DL এর কী সম্পর্ক? (লিঙ্ক প্রথম কমেন্টে)</li>
   <li>মেশিন লার্নিং এর প্রকারভেদ । (এ পর্বে আমরা বলেছিলাম মেশিন লার্নিং এর বিভিন্ন অ্যালগরিদম নিয়ে আলোচনা করব।) (লিঙ্ক প্রথম কমেন্টে)   </li>  
-</ul>                     
+</ul>       
+
+<a href="https://jahidme.github.io/banglablog/ML%20basic/2019-07-07-ml_basic-ml_landscape/" >মেশিন লার্নিং এর পটভূমি।(লিঙ্ক)</a>
+<a href="https://jahidme.github.io/banglablog/ML%20basic/2019-07-07-ml_basic-ml_landscape/" >কিভাবে মেশিন লার্নিং শুরু করবেন?(লিঙ্ক)</a>
+<a href="https://jahidme.github.io/banglablog/ML%20basic/2019-07-07-ml_basic-ml_landscape/" >মেশিন লার্নিং এর সাথে AI এবং DL এর কী সম্পর্ক? (লিঙ্ক)</a>
+<a href="https://jahidme.github.io/banglablog/ML%20basic/2019-07-07-ml_basic-ml_landscape/" >মেশিন লার্নিং এর প্রকারভেদ । (লিঙ্ক)</a>
+
 
 তবে শুরু করার আগে আমরা শিখব কেন অ্যালগরিদম শেখা দরকার?   
 কেন আমরা অ্যালগরিদম শিখব?
