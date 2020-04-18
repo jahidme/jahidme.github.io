@@ -14,16 +14,16 @@ thumbnail: ml_classification.png
 
 <p> বাংলায় মেশিন লার্নিং শিখুন এই উদ্দেশ্যকে সামনে রেখে আমরা গত কয়েক পর্বে বলেছিলাম  <p>
 <ul>
-  <li>মেশিন লার্নিং এর পটভূমি।(লিঙ্ক প্রথম কমেন্টে)</li>
-  <li>কিভাবে মেশিন লার্নিং শুরু করবেন? (২য় পর্বে) (লিঙ্ক প্রথম কমেন্টে)</li>
-  <li>মেশিন লার্নিং এর সাথে AI এবং DL এর কী সম্পর্ক? (লিঙ্ক প্রথম কমেন্টে)</li>
-  <li>মেশিন লার্নিং এর প্রকারভেদ । (এ পর্বে আমরা বলেছিলাম মেশিন লার্নিং এর বিভিন্ন অ্যালগরিদম নিয়ে আলোচনা করব।) (লিঙ্ক প্রথম কমেন্টে)   </li>  
+  <li> <a href="https://jahidme.github.io/banglablog/ML%20basic/2019-07-07-ml_basic-ml_landscape/" >মেশিন লার্নিং এর পটভূমি।(লিঙ্ক)</a> </li>
+  <li> <a href="https://jahidme.github.io/banglablog/foundation-part_one/" >কিভাবে মেশিন লার্নিং শুরু করবেন?(লিঙ্ক)</a> </li>
+  <li> <a href="https://jahidme.github.io/banglablog/ML%20basic/2019-07-21-ml_basic_AI-ML-DL/" >মেশিন লার্নিং এর সাথে AI এবং DL এর কী সম্পর্ক? (লিঙ্ক)</a> </li>
+  <li> <a href="https://jahidme.github.io/banglablog/ML%20basic/2019-08-21-ml_basic_classification/" >মেশিন লার্নিং এর প্রকারভেদ । (লিঙ্ক)</a>   </li>  
 </ul>       
 
-<a href="https://jahidme.github.io/banglablog/ML%20basic/2019-07-07-ml_basic-ml_landscape/" >মেশিন লার্নিং এর পটভূমি।(লিঙ্ক)</a>
-<a href="https://jahidme.github.io/banglablog/ML%20basic/2019-07-07-ml_basic-ml_landscape/" >কিভাবে মেশিন লার্নিং শুরু করবেন?(লিঙ্ক)</a>
-<a href="https://jahidme.github.io/banglablog/ML%20basic/2019-07-07-ml_basic-ml_landscape/" >মেশিন লার্নিং এর সাথে AI এবং DL এর কী সম্পর্ক? (লিঙ্ক)</a>
-<a href="https://jahidme.github.io/banglablog/ML%20basic/2019-07-07-ml_basic-ml_landscape/" >মেশিন লার্নিং এর প্রকারভেদ । (লিঙ্ক)</a>
+
+
+
+
 
 
 তবে শুরু করার আগে আমরা শিখব কেন অ্যালগরিদম শেখা দরকার?   
