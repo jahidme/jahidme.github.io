@@ -1,8 +1,8 @@
 ---
 layout: post
-title: মেশিন লার্নিং অ্যালগরিদম | পর্ব : ১  
+title: মেশিন লার্নিং অ্যালগরিদম - পর্ব : ১  
 author: Md. Shahin Alom
-date: '2020-04-18 08:05:23 +0600'
+date: '2020-04-19 08:05:23 +0600'
 category: guides
 summary: Different types Of Machine Learning Algorithm
 thumbnail: ml_algorithm01.png
@@ -12,7 +12,7 @@ thumbnail: ml_algorithm01.png
 > ✍ বিষয় : মেশিন লার্নিং অ্যালগরিদম
 
 
-<p> বাংলায় মেশিন লার্নিং শিখুন এই উদ্দেশ্যকে সামনে রেখে আমরা গত কয়েক পর্বে বলেছিলাম  <p>
+<p> বাংলায় মেশিন লার্নিং শিখুন এই উদ্দেশ্যকে সামনে রেখে আমরা গত কয়েক পর্বে বলেছিলাম  </p>
 <ul>
   <li> <a href="https://jahidme.github.io/banglablog/ML%20basic/2019-07-07-ml_basic-ml_landscape/" >মেশিন লার্নিং এর পটভূমি।(লিঙ্ক)</a> </li>
   <li> <a href="https://jahidme.github.io/banglablog/foundation-part_one/" >কিভাবে মেশিন লার্নিং শুরু করবেন?(লিঙ্ক)</a> </li>
@@ -23,7 +23,7 @@ thumbnail: ml_algorithm01.png
 
 
 <br>
-<b>
+<br>
 
 <p> <b>তবে শুরু করার আগে আমরা শিখব কেন অ্যালগরিদম শেখা দরকার?  </b></p>
 <p> <b> কেন আমরা অ্যালগরিদম শিখব?</b></p>
