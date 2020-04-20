@@ -31,7 +31,7 @@ ___________
 ___________
 <h3> <u> লিনিয়ার রিগ্রেশন </u>  </h3>
 * [লিনিয়ার রিগ্রেশনের  পরিচিতি]({% link banglablog/LR/intro_lr.md %})
-* [লিনিয়ার রিগ্রেশনের]({% link banglablog/LR/implementation_lr.md %})
+* [লিনিয়ার রিগ্রেশনের]({% link banglablog/implementation_lr.md %})
 
 
 ___________
