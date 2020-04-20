@@ -1,6 +1,6 @@
 title: Home
 subtitle: Machine Learning Talks & Tips
-description:Machine Learning Talks & Tips
+description: Machine Learning Talks & Tips
 url: "https://jahidme.github.io" # the base hostname & protocol for your site, e.g. https://example.github.io
 baseurl: "/blog" # the subpath of your site, e.g. /blog
 
