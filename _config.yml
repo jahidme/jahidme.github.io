@@ -1,9 +1,8 @@
 title: Home
 subtitle: Machine Learning Talks & Tips
-description: >- # this means to ignore newlines until "baseurl:"
-  Machine Learning Talks & Tips
-url: "" # the base hostname & protocol for your site, e.g. https://example.github.io
-baseurl: "" # the subpath of your site, e.g. /blog
+description:Machine Learning Talks & Tips
+url: "https://jahidme.github.io" # the base hostname & protocol for your site, e.g. https://example.github.io
+baseurl: "/blog" # the subpath of your site, e.g. /blog
 
 urls:
     - text: Posts
@@ -26,10 +25,6 @@ urls:
     - text:
       url : /contact
     - text:
-    - text:
-      url : /contact
-    - text:
-      url : /contact
     - text:
       url : /contact
     - text:
